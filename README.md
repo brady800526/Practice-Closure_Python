@@ -14,7 +14,7 @@ First-Class Functions:
 First-Class Citizen (Programming):
 "A first-Class citizen (sometimes called first-class objects) in a programming language is an entity which supports all the operation generally available to other entities. These operations typically include being passed as an argument, returned from a function, and assigned to a variable"
 
-**In brief, if a programming language can treats functions as objects like varialbe. Then this programming language has first-class functions.**
+**In brief, if a programming language can treats functions as objects like variable. Then this programming language has first-class functions.**
 
 For example:
  
@@ -53,11 +53,11 @@ For example:
     func()
 ```
 
-Because outer_func() will return inner_func as object, then will can execute this object with parenthesis which is func() here.
+Because outer_func() will return inner_func as object, then execute this object with parenthesis which is func() here.
 
 ## [Decorators](https://www.youtube.com/watch?v=FsAPt_9Bf3U&t=212s)
 
-Use Decorator in Python is just mark a "at" before the line of a function. There are four cases of decorators:
+Use Decorator in Python is just mark a "@" before the line of a function. There are four cases of decorators:
 
 #### Decorator Function w/o args
 ```
