@@ -4,7 +4,7 @@ This repo is a practice of Decorator with Python.
 
 To know the implementation of Decorator, you better familiar with Fisrt Class Function and Clousre.
 
-*All the step is followed by [youtube channel](https://www.youtube.com/watch?v=kr0mpwqttM0) created by Corey Schafer.*
+*All the step is followed by [youtube channel](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) created by Corey Schafer.*
 
 ## [First-Class Function](https://www.youtube.com/watch?v=kr0mpwqttM0&t=10s)
 
